@@ -1,0 +1,60 @@
+body {
+    background-image: url("Station3.jpg");
+    background-size: cover;
+    width: auto;
+    height: auto;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    text-shadow: 10px 5px 50px black;
+    border:
+}
+
+h1 {
+    margin-top: 200px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#increment-btn:hover {
+  background-color: #4CAF50; 
+  color: white;
+}
+
+#increment-btn {
+    background: #B97375;
+}
+#increment-btn:hover {
+  background-color: #FAA381; 
+  color: white;
+}
+
+#save-btn {
+    background: #E2DCDE;
+    color:black;
+}
+#save-btn:hover {
+  background-color: #81AE9D; 
+  color: white;
+}
